@@ -23,6 +23,7 @@ bContinue=false;
 else
 {
 System.out.println("user types "+sAns+"\nError Y or N only\n");
+System.out.println("user names "+sAns+"\nError Y or N only\n");
 
 }
 }
